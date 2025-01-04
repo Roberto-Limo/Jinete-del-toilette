@@ -20,3 +20,14 @@
 [14:43:03] [Server thread/INFO]: pepeneque joined the game
 [14:51:08] [Server thread/INFO]: pepeneque lost connection: Disconnected
 [14:51:08] [Server thread/INFO]: pepeneque left the game
+[15:02:06] [Server thread/INFO]: Stopping the server
+[15:02:07] [Server thread/INFO]: Stopping server
+[15:02:07] [Server thread/INFO]: Saving players
+[15:02:07] [Server thread/INFO]: Saving worlds
+[15:02:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:02:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:02:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
