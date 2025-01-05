@@ -23,3 +23,16 @@
 [01:06:08] [Server thread/WARN]: Horse (vehicle of Tigre_Severo) moved wrongly! 0.2828239545845008
 [01:06:08] [Server thread/WARN]: Horse (vehicle of Tigre_Severo) moved wrongly! 0.5781523368157266
 [01:06:08] [Server thread/WARN]: Horse (vehicle of Tigre_Severo) moved wrongly! 0.8797795053036594
+[01:27:48] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[01:27:48] [Server thread/INFO]: Tigre_Severo left the game
+[01:28:01] [Server thread/INFO]: Stopping the server
+[01:28:01] [Server thread/INFO]: Stopping server
+[01:28:01] [Server thread/INFO]: Saving players
+[01:28:01] [Server thread/INFO]: Saving worlds
+[01:28:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:28:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:28:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:28:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:28:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:28:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:28:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
